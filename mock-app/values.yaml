@@ -1,5 +1,5 @@
 appName: mock-app
-message: "w pizdzie !"
+message: "w zartowalem !"
 image:
   repository: benmalekarim/mock-app
   tag: v1.1.0
